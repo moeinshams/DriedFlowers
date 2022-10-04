@@ -1,0 +1,102 @@
+.pageHeader{
+
+    width: 100%;
+    height: 500px;
+    background-image: url("./DriedFlowers_Header.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+
+}
+
+.headerText{
+    padding-top: 100px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 100px;
+    wrap-option: true;
+    font-size: unset;
+    flex-wrap: inherit;
+
+    font-family: Garamond;
+
+}
+
+.infoBlock{
+    position: center;
+    padding: 0%;
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 80%;
+    height: 500px;
+    border: solid 10px ;
+    border-radius: 100px;
+    border-color: #c1a47c;
+    display: flex;
+    background-color: #d3bd96;
+    /* nice color coding to remember = d3bd96*/
+
+}
+.space{
+    width: 100%;
+    height: 100px;
+}
+
+.webgl01 {
+    padding: 0;
+    margin: 0;
+    display: block;
+    border-radius: 500px;
+}
+.webgl02 {
+    padding: 0;
+    margin: 0;
+    display: block;
+    border-radius: 500px;
+}
+.webgl03 {
+    padding: 0;
+    margin: 0;
+    display: block;
+    border-radius: 500px;
+}
+.webgl04 {
+    padding: 0;
+    margin: 0;
+    display: block;
+    border-radius: 500px;
+}
+.webgl05 {
+    padding: 0;
+    margin: 0;
+    display: block;
+    border-radius: 500px;
+}
+.headerViewer{
+    padding: 0;
+    margin: 0;
+    display: block;
+    border-radius: 500px;
+}
+
+body{
+
+    background-color: #cad8b5;
+
+}
+.text{
+    padding-top: 100px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 100px;
+    wrap-option: true;
+    font-size: unset;
+    flex-wrap: inherit;
+
+    font-family: Garamond;
+
+    color: #69262f;
+    margin: 0;
+
+}
+
