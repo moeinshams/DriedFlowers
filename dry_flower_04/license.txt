@@ -1,0 +1,11 @@
+Model Information:
+* title:	Dry flower
+* source:	https://sketchfab.com/3d-models/dry-flower-d565e8b73f35430a882789ed9c434299
+* author:	Second Studio (https://sketchfab.com/kayaaku)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Dry flower" (https://sketchfab.com/3d-models/dry-flower-d565e8b73f35430a882789ed9c434299) by Second Studio (https://sketchfab.com/kayaaku) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
