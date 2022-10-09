@@ -41,7 +41,7 @@ let obj
 
 let gLoader = new GLTFLoader()
 
-gLoader.load("/dry_flower_01/scene.gltf", function (gltf){
+gLoader.load("./dryFlower_01.gltf", function (gltf){
     obj = gltf.scene
     scene.add(gltf.scene)
     obj.position.y = -0.13
